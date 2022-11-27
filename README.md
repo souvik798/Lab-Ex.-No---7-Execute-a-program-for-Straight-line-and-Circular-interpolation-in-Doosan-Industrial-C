@@ -52,7 +52,6 @@ Circular Interpolation
 ![OUTPUT](5.png)
 ![OUTPUT](6.png)
 ![OUTPUT](7.png)
-![OUTPUT](8.JPEG)
 
 
 ### Results :
